@@ -5,6 +5,7 @@ Created using React and Flask plus python NLTK library for natural language proc
 # Table of Contents
  - General Info
  - Technologies
+ - How to Use
  - Example of Use
 
 # General Info
@@ -18,6 +19,11 @@ The tweets are then processed with NLTK natural language processing library and 
  - Axios
  - Chartjs
  - Python NLTK
+
+# How to Use
+ - Register for a twitter developer account
+ - Wait for the approval of your developer account
+ - Fill in your developer's account credential in the ./api/auth/twitter_keys.yaml
  
 # Example of Use
  - To know public opinion for a certain events or figures
